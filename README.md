@@ -1,2 +1,2 @@
 # portfolio
-My portfolio, created for andrewborstein.com
+My portfolio, created by Farid Ahmed
