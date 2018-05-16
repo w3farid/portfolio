@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewborstein/portfolio.git"
+    "url": "https://github.com/w3farid/portfolio.git"
   },
   "keywords": [
     "github",
@@ -20,9 +20,9 @@
   "author": "andrew borstein",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andrewborstein/portfolio/issues"
+    "url": "https://github.com/w3farid/portfolio/issues"
   },
-  "homepage": "https://github.com/andrewborstein/portfolio",
+  "homepage": "https://github.com/w3farid/portfolio",
   "devDependencies": {
     "connect": "^3.4.0",
     "grunt": "^0.4.5",
